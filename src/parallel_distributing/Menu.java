@@ -1,4 +1,4 @@
-package parallel_distributed_assignment;
+package parallel_distributing;
 
 import java.io.IOException;
 import java.util.concurrent.ExecutionException;

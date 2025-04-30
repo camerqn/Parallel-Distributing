@@ -1,4 +1,4 @@
-package parallel_distributed_assignment;
+package parallel_distributing;
 
 /**
  * SingleThreadedSolver class performs the Sieve of Eratosthenes algorithm in a single threaded manner. It contains
